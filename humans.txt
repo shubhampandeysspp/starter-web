@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shubham Pandey	shubhampandey.sspp@gmail.com	@shubhampandey.sspp
 
 # THANKS
 
